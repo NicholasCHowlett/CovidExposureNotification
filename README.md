@@ -12,7 +12,7 @@ The web application will be attempted using JavaScript, with computation occurin
 I'm looking for mathematical people, as the quantification of risk will be challanging for me (I have a background in computational engineering -- essentially producing nice-looking images using primarily black-box code). I'm also searching for research peeps in the area of perhaps epidemiology with an interest in computational science (disease modelling [3]). Mostly we're looking for your subscription to Nature. Kidding! We'd be grateful for any expert advice.
 
 ## Licenses
-This software is distributed under the GNU General Public License. This project's entire written content (not limited to this respository) is released under the Creative Commons Attribution-NonCommercial 4.0 International License.
+The Vue Software is released under the [MIT License](https://github.com/vuejs/vue/blob/dev/LICENSE). This project's software (and documentation) is also distributed under the MIT License. This project's remaining written content (not limited to this respository) is released under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). The Google Maps Platform is used by agreeing to [Google's own license](https://cloud.google.com/maps-platform/terms).
 
 ## Notes
 [1] https://www.freecodecamp.org/news/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446/  
